@@ -2,7 +2,11 @@ team: Leopards
 
 manager: Dooli
 
+<<<<<<< HEAD
 coach: Nicholas
+=======
+coach: Melissa
+>>>>>>> 263a335 (Edit Leopards)
 
 members:
 - Linda
